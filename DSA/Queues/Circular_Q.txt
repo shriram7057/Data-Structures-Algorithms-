@@ -1,0 +1,4 @@
+What is Circular Queue?
+A circular queue is a type of queue in which the last position is connected back to the first position to make a circle. It is also known as a Ring Buffer. In a normal queue, once the queue becomes full, we cannot insert the next element even if there is a space in front of the queue. But using a circular queue, we can use the space to insert elements.
+
+It is a linear data structure that follows the FIFO mechanism. The circular queue is a more efficient way to implement a queue in a fixed size array. In a circular queue, the last element points to the first element making a circular link.

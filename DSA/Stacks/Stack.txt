@@ -1,0 +1,9 @@
+What is a Stack?
+
+A stack is a linear data structure where elements are stored in the LIFO (Last In First Out) principle where the last 
+element inserted would be the first element to be deleted. A stack is an Abstract Data Type (ADT), that is popularly used
+in most programming languages. It is named stack because it has the similar operations as the real-world stacks, for
+example − a pack of cards or a pile of plates, etc.
+
+Stack is considered a complex data structure because it uses other data structures for implementation, such as Arrays,
+Linked lists, etc.
