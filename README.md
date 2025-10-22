@@ -40,5 +40,5 @@ This repository contains:
 
 ---
 
-## 🧩 Folder Structure
+
 
